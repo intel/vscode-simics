@@ -11,3 +11,7 @@ The modeling extension for the Intel Simics Simulator is a collection of capabil
 * Integration of test-runner used with Simics
 * Code coverage
 
+The population of this repo is dealyed due to the initiability to implement proper regression testing in the open, but that should be solved "soon".
+
+In the meantime, the Simics Modeling Extension can be installed from the [VS code marketplace](https://marketplace.visualstudio.com/items?itemName=intel-corporation.simics-modeling)
+
