@@ -1,6 +1,6 @@
 # Intel® Simics® Simulator Modeling Extension
 
-(The repo is a place holder repo at this point (see [Status](#Status) below), but the below is what is coming)
+(This repo is a place holder repo at this point (see [Status](#Status) below), but the below is what is coming)
 
 The modeling extension for the Intel Simics Simulator is a collection of capabilities helping model developers to become more effective in implementing, debugging and testing device models based on Simics. It contains/will contain the following high level features.
 
@@ -16,4 +16,5 @@ The Simics Modeling Extension can be installed from the [VS code marketplace](ht
 Status
 
 The population of this repo is delayed due to the inability to implement proper regression testing in the open, but that should be solved "soon".
+
 
